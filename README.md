@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in Python code that calculates the average of a list of numbers. The original code lacks robustness in handling edge cases, such as empty lists and lists containing non-numeric elements. The improved solution addresses these edge cases to make the code more robust and error-free.
